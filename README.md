@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/SlideZero/icons-logos/blob/main/Unity/U_Logo_Black_RGB.png" width="200"/>
+<img src="https://github.com/SlideZero/icons-logos/blob/main/Unity/U_Logo_Black_RGB.png#gh-light-mode-only" width="200"/>
+  <img src="https://github.com/SlideZero/icons-logos/blob/main/Unity/U_Logo_White_RGB.png#gh-dark-mode-only" width="200"/>
 </p>
 
 <p align="center">
